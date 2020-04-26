@@ -4,7 +4,7 @@ import NavTabs from "./components/NavTabs";
 import Home from "./components/pages/Home";
 import Portfolio from "./components/pages/Portfolio";
 import Technologies from "./components/pages/Technologies";
-
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,8 +18,10 @@ function App() {
           {/* if no routes hit..use this one below */}
           <Route render={() => <h1> 404 error! Where are you?</h1>} />
         </Switch>
+        <Footer />    
       </div>
     </Router>
+    
   );
 }
 

@@ -21,14 +21,12 @@ function Home() {
 
                     <div className="row">
                         <div className="col-md-6 d-flex justify-content-center">
-                            <img src="assets\images\sudar.JPG" alt="Sudar Meruva" height="300" width="300" />
+                            <img src="assets\images\Suddu_Profile_Pic_TMO.JPG" alt="Sudar Meruva"  height="375" />
                         </div>
                         <div className="col-md-6">
-                            <p>I have two decades of experience developing Enterprise applications in various
-                            technologies.
-                            I am
-                            a full stack
-                            developer fully capable of carrying out complex projects from the concept phase through
+                            <p>Managed a team of developers and testers buildig a Wed-based custom products for Network Operations Center and Retail. Implemented technology solutions in fast-paced environment, growing from 15 developers to 100 developerss and managing $10M budget.
+                            
+                            Hired, managed and motivated team of developers, managers, to carry out complex projects from the concept phase through
                             architecture design,
                             implementation, and DevOps to maintenance.
                             </p>
@@ -36,8 +34,8 @@ function Home() {
                             team.
                             In
                             addition to
-                            working as Sr. Developer, i have 12 years of experience as a Software Development
-                            Manager.
+                            working as Sr. DevOps Manager, i have experience as a Software Development
+                            Manager to manager onsite and offshore developers.
                             </p>
                         </div>
                     </div>
@@ -52,16 +50,15 @@ function Home() {
                             <p>Team Transformation - Lead Waterfall to Agile Scrum transformation, Windows -> Web ->
                             Responsive
                             HTML5, Auto
-                            deployment, Auto Test and DevOps.
+                            deployment (CI/CD), Auto Test and DevOps.
                             </p>
                             <p> My interest outside of work is my Home Theater, Coaching Rec Soccer, Cheer my son at EDP
                             Soccer
                             league, Help
                             out my daughter’s Girl Scout Troop and gardening in spring and summer.
                             </p>
-                            <p>Please find my top accomplishments under Portfolio tab and feel free to contact me under
-                            contacts
-                                tab.</p>
+                            <p>Please find my recent projects in latest technologies under Portfolio tab and feel free to contact me
+                            </p>                            
                             <hr className="line_className" />
                         </div>
                     </div>

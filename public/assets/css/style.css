@@ -136,6 +136,7 @@ p{
 }
 
 footer {  
+  /* flex-shrink: 0; */
   background-color:#666666;
   color:white;
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;

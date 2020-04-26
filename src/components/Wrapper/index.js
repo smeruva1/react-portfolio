@@ -6,7 +6,7 @@ function Wrapper(props) {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-lg-9">
+        <div className="col-lg-11">
           <div className="row">
             <div className="col-md-12">
               <Title>Project List</Title>
