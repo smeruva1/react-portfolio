@@ -14,10 +14,10 @@ function ProjectCard(props) {
         <Card.Text>
           {props.technologies}
         </Card.Text>
-        <Button variant="primary" href={props.applicationURL} size="md" style={{ margin: "5px" }}>
+        <Button variant="primary" href={props.applicationURL} size="md" style={{ margin: "5px" }} target="_blank">
           Launch App
         </Button>
-        <Button variant="primary" href={props.githubURL} size="md" style={{ margin: "5px"}} > <i className="fa fa-github"></i> REPO
+        <Button variant="primary" href={props.githubURL} size="md" style={{ margin: "5px"}} target="_blank"> <i className="fa fa-github"></i> REPO
         </Button>
       </Card.Body>
     </Card>
