@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "project": "The Contagion Boutique",
+    "image": "assets\\images\\thecontagionboutique.PNG",
+    "description": "one stop e-store for all your Corona fasion needs",
+    "technologies": "Node, express server, Seqelize & MySQL, 3 Models - User, Order, Products, 16 API's/Routes, Heroku, MVC Architecture, express handlebars, bcrypt, eslint, prettier",
+    "applicationURL": "https://the-contagion-boutique.herokuapp.com/",
+    "githubURL": "https://github.com/smeruva1/The-Contagion-Boutique"
+  },
+  {
+    "id": 2,
+    "project": "TravelNut",
+    "image": "assets\\images\\travelnut.PNG",
+    "description": "Helps tourists explore new places who are not sure where to go.",
+    "technologies": "Jquery, Bulma CSS Framework, Moment, Fontawesome Leaflet & Mapbox API for Map Accuweather API TicketMaster API for events",
+    "applicationURL": "https://smeruva1.github.io/TravelNut/",
+    "githubURL": "https://github.com/smeruva1/TravelNut"
+  },
+  {
+    "id": 3,
+    "project": "Employee Directory",
+    "image": "assets\\images\\empdirectory.PNG",
+    "description": "The application helps a user to able to view ABC Companies entire directory at once, able to sort and  filter by name.",
+    "technologies": "React, Bootstrap, React Bootstrap Table, Axios, Randomuser API to fetch 200 users with images.",
+    "applicationURL": "https://employee-directory-m7ii9qok7.now.sh/",
+    "githubURL": "https://github.com/smeruva1/employee_directory"
+  },
+  {
+    "id": 4,
+    "project": "Eat Da Burger App",
+    "image": "assets\\images\\eattheburgerapp.PNG",
+    "description": "A burger logger application front end is generated with handlebars dynamic html pages, the application also has middleware for GET, UPDATE and routes and data is persistent stored in mySQL",
+    "technologies": "MySQL, Node, Express, Handlebars, ORM, MVC, Heroku",
+    "applicationURL": "https://powerful-tor-25289.herokuapp.com/",
+    "githubURL": "https://github.com/smeruva1/burger"
+  },
+  {
+    "id": 5,
+    "project": "The Weather Dashboard",
+    "image": "assets\\images\\weatherdashboard.PNG",
+    "description": "Webbased Application to allow users to search weather conditions and future outlook for multiple cities. ",
+    "technologies": "Bootstrap, JQuery Ajax, Open Weather API, local storage. ",
+    "applicationURL": "https://smeruva1.github.io/weather_dashboard/",
+    "githubURL": "https://github.com/smeruva1/weather_dashboard"
+  },
+  {
+    "id": 6,
+    "project": "The Workout Tracker",
+    "image": "assets\\images\\workouttracker.PNG",
+    "description": "Tracking workout helps users reach their fitness goals. Workout application will help to track daily workouts. The application allows to log multiple excercises in a workout on a given day.",
+    "technologies": "Node, Express, Mongo database, Mongoose, Heroku",
+    "applicationURL": "https://ancient-dusk-19979.herokuapp.com/",
+    "githubURL": "https://github.com/smeruva1/Workout-Tracker"
+  }
+]
