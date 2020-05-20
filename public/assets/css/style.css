@@ -2,6 +2,7 @@
     box-sizing: border-box;
   }
 
+  
   .fit-image{
     width: 100%;
     object-fit: cover;
@@ -14,6 +15,9 @@
     --sapphire: #1D6768;
     --dark-blue: #29364F;
     --dark: #181B26;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
 
   body {
@@ -307,4 +311,20 @@ hr {
   height: 40vh;
   object-fit: cover;
   
+  }
+
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .topdiv{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .foot{
+    margin-top: auto;
   }

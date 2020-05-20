@@ -21,14 +21,11 @@ function Home() {
 
                     <div className="row">
                         <div className="col-md-6 d-flex justify-content-center">
-                            <img src="assets\images\Suddu_Profile_Pic_TMO.JPG" alt="Sudar Meruva"  height="375" />
+                            <img src="assets\images\Suddu_Profile_Pic_TMO.JPG" alt="Sudar Meruva" height="375" />
                         </div>
                         <div className="col-md-6">
-                            <p>Managed a team of developers and testers buildig a Wed-based custom products for Network Operations Center and Retail. Implemented technology solutions in fast-paced environment, growing from 15 developers to 100 developerss and managing $10M budget.
-                            
-                            Hired, managed and motivated team of developers, managers, to carry out complex projects from the concept phase through
-                            architecture design,
-                            implementation, and DevOps to maintenance.
+                            <p>Senior Leader in IT with a progressive career in developing large-scale, enterprise business applications and delivering IT solutions. Ability to lead organizations to maximize business ROI from Application development, Business Intelligence/Data Warehousing deployments through aligning design, implementation, and maintenance with best practices. Skilled in managing large teams across onsite, off-shore, and third-party vendor resources.
+
                             </p>
                             <p>I am certified Scrum Master and successfully introduced Agile Scrum development in my
                             team.
@@ -42,30 +39,28 @@ function Home() {
 
                     <div className="row">
                         <div className="col-md-12">
-                            <p>Built a high-performance team, started ESD BI & ESD NDW Teams, established Offshore
-                            Development
-                            teams and saved
-                            over $20M over 8 years.
-                            </p>
-                            <p>Team Transformation - Lead Waterfall to Agile Scrum transformation, Windows -> Web ->
-                            Responsive
-                            HTML5, Auto
-                            deployment (CI/CD), Auto Test and DevOps.
-                            </p>
+                            <p>Responsibilities:
+</p><p> Oversee DevOps teams to develop, test and support critical applications, utilizing the latest technologies and programming methodologies.
+</p><p> Recommend new technology directions in collaboration with Design and Enterprise Architecture teams.
+</p><p> Lead Enterprise Data warehouse and Business Intelligence strategy
+</p><p> Build staffing plans that ensure management and development teams are staffed with skill sets required to enhance existing systems as well as deliver new systems functionality required by the business.
+</p><p> Provide input for departmental budgets and work to manage operational and capital expenses to meet budget.
+</p><p> Improves the development processes, tools and methodologies used in the development group.
+</p>
                             <p> My interest outside of work is my Home Theater, Coaching Rec Soccer, Cheer my son at EDP
                             Soccer
                             league, Help
                             out my daughter’s Girl Scout Troop and gardening in spring and summer.
                             </p>
                             <p>Please find my recent projects in latest technologies under Portfolio tab and feel free to contact me
-                            </p>                            
+                            </p>
                             <hr className="line_className" />
                         </div>
                     </div>
                 </div>
                 <div className="push"></div>
             </div>
-        </div>    
+        </div>
     );
 }
 

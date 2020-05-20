@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer>
+    <footer className="foot" Style={{marginTop: "auto"}}>
       <div className="footer_teal">
         <br />
       </div>
