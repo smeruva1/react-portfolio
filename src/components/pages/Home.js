@@ -24,36 +24,34 @@ function Home() {
                             <img src="assets\images\Suddu_Profile_Pic_TMO.JPG" alt="Sudar Meruva" height="375" />
                         </div>
                         <div className="col-md-6">
-                            <p>Senior Leader in IT with a progressive career in developing large-scale, enterprise business applications and delivering IT solutions. Ability to lead organizations to maximize business ROI from Application development, Business Intelligence/Data Warehousing deployments through aligning design, implementation, and maintenance with best practices. Skilled in managing large teams across onsite, off-shore, and third-party vendor resources.
-
-                            </p>
-                            <p>I am certified Scrum Master and successfully introduced Agile Scrum development in my
-                            team.
-                            In
-                            addition to
-                            working as Sr. DevOps Manager, i have experience as a Software Development
-                            Manager to manager onsite and offshore developers.
+                            <p>DevOps Sr. Manager with extensive experience in Enterprise Tools Development and Operations.
+                            Lead development and management of over 50 Enterprise applications and tools that enable the workforce to continuously improve business processes to optimize productivity. Experience building high performing teams - resource planning/scheduling, prioritization, outsourcing, offshore teams, virtual teams, communication.
+                            A penchant for driving DevOps and CICD adoption across ESD organization, creating and implementing a fully SOX-Compliant CICD/DevOps process, and taking it through SOX-Compliance reviews, validations, and approval of PwC in 2019. Proven track record in delivering results in a fast-paced cross-functional environment.
                             </p>
                         </div>
                     </div>
 
                     <div className="row">
                         <div className="col-md-12">
-                            <p>Responsibilities:
-</p><p> Oversee DevOps teams to develop, test and support critical applications, utilizing the latest technologies and programming methodologies.
-</p><p> Recommend new technology directions in collaboration with Design and Enterprise Architecture teams.
-</p><p> Lead Enterprise Data warehouse and Business Intelligence strategy
-</p><p> Build staffing plans that ensure management and development teams are staffed with skill sets required to enhance existing systems as well as deliver new systems functionality required by the business.
-</p><p> Provide input for departmental budgets and work to manage operational and capital expenses to meet budget.
-</p><p> Improves the development processes, tools and methodologies used in the development group.
-</p>
-                            <p> My interest outside of work is my Home Theater, Coaching Rec Soccer, Cheer my son at EDP
-                            Soccer
-                            league, Help
-                            out my daughter’s Girl Scout Troop and gardening in spring and summer.
-                            </p>
-                            <p>Please find my recent projects in latest technologies under Portfolio tab and feel free to contact me
-                            </p>
+                            <p>Sr. Manager DevOps, T-Mobile USA</p>
+                            <p>
+                                Manage complex projects, relationships, virtual teams and vendors, and deliver Enterprise IT projects.</p>
+                            <p>
+                                Written SOWs and negotiated vendor contracts. Authored and executed Velocity based SOW with multiple vendors and successfully being used in the department. Managed 12M$ annual budget for software development</p>
+                            <p>
+                                Oversaw vendor management, Hardware/software purchasing, software license management, application administration, Team access/security and team training.</p>
+                            <p>
+                                Created standards and best practices for measuring, improving, and communicating value of IT. Designed dashboards – Scrum velocity, Application Availability, Techdebt progress dashboard</p>
+                            <p>
+                                Lead monthly datacenter failover (GRDR) of over 100 applications from Polaris to Titan, automated failover scripts for Apps on VM, PCF, DB using Service Now (SNOW).</p>
+                            <p>
+                                Analysed problem areas in employee training and motivation</p>
+                            <p>
+                                Coordinate training programs that cultivate and enhance company culture</p>
+                            <p>
+                                Executed a career growth program for my team - transition senior engineers to Architects and Member of Technical Staff. Program resulted in $60K savings in recruiting cost.</p>
+                            <p>
+                                Developed and implemented monthly team-building events and employee recognition applications - STAR's and UnSung Hero.</p>
                             <hr className="line_className" />
                         </div>
                     </div>

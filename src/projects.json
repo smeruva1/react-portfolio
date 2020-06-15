@@ -3,8 +3,8 @@
     "id": 1,
     "project": "moviePal - enrich your movie list wisely",
     "image": "assets\\images\\moviePal.PNG",
-    "description": "an App to help ease our daily stress of picking a perfect Movie. Allows you to search for Movies, maintain a single watchlist, rate Movies, show real time availability at streaming services and most importantly rating by your family and friends.",
-    "technologies": "react hooks, react-bootstrap, Node.js, Express, Mongo, jsonwebtoken",
+    "description": "An App to help ease our daily stress of picking a perfect Movie. Allows you to search for Movies, maintain a single watchlist, rate Movies, show real time availability at streaming services and most importantly rating by your family and friends.",
+    "technologies": "React hooks, React-bootstrap, Node.js, Express, Mongo, jsonwebtoken",
     "applicationURL": "https://moviepal-mern.herokuapp.com/",
     "githubURL": "https://github.com/smeruva1/mern-moviepal"
   },
@@ -12,7 +12,7 @@
     "id": 2,
     "project": "The Contagion Boutique",
     "image": "assets\\images\\thecontagionboutique.PNG",
-    "description": "one stop e-store for all your Corona fasion needs",
+    "description": "One stop e-store for all your Corona fasion needs",
     "technologies": "Node, express server, Seqelize & MySQL, 3 Models - User, Order, Products, 16 API's/Routes, Heroku, MVC Architecture, express handlebars, bcrypt, eslint, prettier",
     "applicationURL": "https://the-contagion-boutique.herokuapp.com/",
     "githubURL": "https://github.com/smeruva1/The-Contagion-Boutique"
@@ -21,8 +21,8 @@
     "id": 3,
     "project": "TravelNut",
     "image": "assets\\images\\travelnut.PNG",
-    "description": "Helps tourists explore new places who are not sure where to go.",
-    "technologies": "Jquery, Bulma CSS Framework, Moment, Fontawesome Leaflet & Mapbox API for Map Accuweather API TicketMaster API for events",
+    "description": "Help tourists explore new places who are not sure where to go next.",
+    "technologies": "JQuery, Bulma CSS Framework, Moment, Fontawesome Leaflet & Mapbox API for Map Accuweather API TicketMaster API for events",
     "applicationURL": "https://smeruva1.github.io/TravelNut/",
     "githubURL": "https://github.com/smeruva1/TravelNut"
   },

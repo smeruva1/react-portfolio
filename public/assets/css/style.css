@@ -139,7 +139,7 @@ p{
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-footer {  
+footer, header {  
   /* flex-shrink: 0; */
   background-color:#666666;
   color:white;
@@ -327,4 +327,8 @@ hr {
 
   .foot{
     margin-top: auto;
+  }
+
+  .noBottomMargin {
+    margin-bottom: 0px;
   }
