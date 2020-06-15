@@ -33,7 +33,7 @@ function Home() {
 
                     <div className="row">
                         <div className="col-md-12">
-                            <p>Sr. Manager DevOps, T-Mobile USA</p>
+                            <p className="font-weight-bold">Sr. Manager DevOps, T-Mobile USA</p>
                             <p>
                                 Manage complex projects, relationships, virtual teams and vendors, and deliver Enterprise IT projects.</p>
                             <p>
